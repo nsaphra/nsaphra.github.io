@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A natural language processing researcher.'
+    twitter: 'nsaphra'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -59,16 +59,20 @@ locale:
 
 # Site features
 
+icon:
+  pack:
+    ai: true
+
 features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/nsaphra/nsaphra.github.io'
     content_dir: content
     branch: main
   avatar:
