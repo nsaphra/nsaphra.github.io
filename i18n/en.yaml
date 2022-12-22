@@ -207,9 +207,6 @@
 - id: pub_nonarchival
   translation: Non-archival
 
-- id: pub_preprint
-  translation: Preprint
-
 # Project details
 
 - id: open_project_site

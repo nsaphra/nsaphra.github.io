@@ -10,8 +10,6 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-      text:
   - block: collection
     id: posts
     content:
@@ -30,6 +28,8 @@ sections:
         exclude_featured: false
         exclude_future: false
         exclude_past: false
+        tags_exclude:
+          - draft
         publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0

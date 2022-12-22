@@ -49,10 +49,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:nsaphra@nsaphra.net
   - icon: mastodon
     icon_pack: fab
-    href: https://sigmoid.social/@nsaphra
+    link: https://sigmoid.social/@nsaphra
+    label: Follow me on Mastodon
     rel: me
     display:
       header: true
