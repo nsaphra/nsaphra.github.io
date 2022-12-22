@@ -2,7 +2,7 @@
 title: "Automatic verification of boundary annotations from mechanical turk"
 date: 2012-01-01
 publishDate: 2019-07-25T18:43:51.343150Z
-authors: ["Naomi Saphra"]
+authors: [admin]
 publication_types: ["8"]
 abstract: ""
 featured: false

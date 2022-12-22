@@ -2,7 +2,7 @@
 title: "Domain Adaptation for Word Embeddings With Matrix Factorization"
 date: 2015-01-01
 publishDate: 2019-07-25T18:43:51.340258Z
-authors: ["Naomi Saphra", "Raman Arora"]
+authors: [admin, "Raman Arora"]
 publication_types: ["8"]
 abstract: ""
 featured: false
