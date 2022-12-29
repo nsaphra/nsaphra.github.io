@@ -49,16 +49,48 @@
           {{- end -}}
         </h2>
 
-        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        <p id="pronouns"
+               value="first">
+          they / she
+        </p>
 
-        {{ range $person.organizations }}
+        <script>
+          // first/third person
+          window.onload = function(){
+          $("#pronouns").on("click", function(event) {
+          var third_person = (/(they|she)/i).test($("#pronouns").attr("value"));
+          var pronoun_selected = (/she/i).test($("#pronouns").attr("value"));
+          $(".change-person").each(function() {
+           $(this).text(
+            third_person
+            ? (pronoun_selected
+             ? $(this).attr("i-content")
+             : $(this).attr("she-content"))
+            : $(this).attr("they-content")
+          );
+          });
+          $("#pronouns").attr("value",
+           third_person
+           ? (pronoun_selected
+             ? "first"
+             : "she")
+           : "they")
+          });
+          $("#pronouns").css({cursor: "pointer"})
+          };
+        </script>
+
+        <!-- {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }} -->
+
+        <!-- {{ range $person.organizations }}
         <h3>
           {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
           <span>{{ .name }}</span>
           {{ if .url }}</a>{{ end }}
         </h3>
-        {{ end }}
+        {{ end }} -->
       </div>
+
 
       <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
