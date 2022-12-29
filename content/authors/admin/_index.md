@@ -69,10 +69,6 @@ social:
   - icon: semantic-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.semanticscholar.org/author/Naomi-Saphra/2362960
-    # [[params.social]]
-    #   icon = "ai-semantic-scholar"
-    #   icon_pack = "ai"
-    #   link = "https://www.semanticscholar.org/author/Naomi-Saphra/2362960"
   - icon: github
     icon_pack: fab
     link: https://github.com/nsaphra
