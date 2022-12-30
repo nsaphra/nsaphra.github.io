@@ -5,7 +5,7 @@ title: Training dynamics of neural language models
 subtitle: ''
 summary: ''
 authors:
-- Naomi Saphra
+- admin
 tags: []
 categories: []
 date: '2021-01-01'
@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2022-12-30T04:15:52.145556Z'
 publication_types:
-- '2'
+- '9'
 abstract: ''
 publication: ''
 ---

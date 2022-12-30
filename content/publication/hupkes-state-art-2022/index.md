@@ -49,8 +49,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-12-30T04:15:52.031527Z'
-publication_types:
-- '0'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Workshop; 9 = Non archival
+publication_types: ["3"]
 abstract: "The ability to generalise well is one of the primary desiderata of natural\
   \ language processing (NLP). Yet, what `good generalisation' entails and how it\
   \ should be evaluated is not well understood, nor are there any common standards\

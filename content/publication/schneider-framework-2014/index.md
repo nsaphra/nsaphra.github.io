@@ -6,6 +6,6 @@ authors: ["Nathan Schneider", "Brendan O'Connor", admin, "David Bamman", "Manaal
 publication_types: ["7"]
 abstract: ""
 featured: false
-publication: "*Linguistic Annotation Workshop*"
+publication: "ACL Linguistic Annotation Workshop"
 url_pdf: "https://www.aclweb.org/anthology/W13-2307"
 ---

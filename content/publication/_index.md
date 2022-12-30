@@ -13,4 +13,16 @@ view: 4
 header:
   caption: ''
   image: ''
+
+#types = [ "pub_uncat",
+#          "pub_conf",
+#          "pub_journal",
+#          "pub_preprint",
+#          "pub_report",
+#          "pub_book",
+#          "pub_book_section",
+#          "pub_workshop",
+#          "pub_nonarchival",
+#          "pub_thesis",
+#        ]
 ---

@@ -9,4 +9,5 @@ types = [ "pub_uncat",
           "pub_book_section",
           "pub_workshop",
           "pub_nonarchival",
+          "pub_thesis",
         ]

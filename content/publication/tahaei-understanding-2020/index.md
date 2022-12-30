@@ -6,6 +6,7 @@ authors: ["Mohammad Tahaei",  "Kami Vaniea", admin]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Conference on Human Factors in Computing Systems (CHI)*"
+publication: "Conference on Human Factors in Computing Systems"
+publication_short: "CHI"
 url_pdf: "https://vaniea.com/papers/tahaei2020SO.pdf"
 ---

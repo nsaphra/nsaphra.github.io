@@ -13,7 +13,7 @@ authors:
 - Subhransu Maji
 - Sammy Mohamed
 - Esa Rahtu
-- Naomi Saphra
+- admin
 - Karen Simonyan
 tags: []
 categories: []
