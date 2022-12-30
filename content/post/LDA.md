@@ -40,7 +40,7 @@ Dirichlet is a distribution specified by a vector parameter $$\alpha$$ containin
 
 Confused? Ready for a picture ripped off Wikipedia?
 
-[![Dirichlet Distributions](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dirichlet_distributions.png/695px-Dirichlet_distributions.png)](http://commons.wikimedia.org/wiki/File:Dirichlet_distributions.png)
+[![Dirichlet Distributions](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dirichlet_distributions.png/695px-Dirichlet_distributions.png)](http://commons.wikimedia.org/wiki/File:Dirichlet_distributions.png)
 
 Those graphs all show Dirichlet distributions for three topics. That  triangle at the bottom has one side for each topic, and the closer a point on the triangle is to side \\(i\\) the higher the probability of topic \\(i\\).  The purple curve is the probability density function over the mixture  of topics. See how the edges of the triangle all have probability 0? We  said that the pdf is proportional to  \\(x_i \alpha_i\\), so if \\(x_i\\) is 0, the probability of that mixture of topics is 0. That restricts  our model a bit and ensures that we never are totally certain about the  topic of a document.
 

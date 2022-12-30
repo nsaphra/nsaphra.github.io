@@ -120,7 +120,7 @@ Speech recognition technology is not perfect, and the error rate is even higher 
 Having a private space to dictate in is essential. I was unable to be productive working from home, but as soon as I had a private office I developed momentum on several research projects. I know that this is a huge limitation for a lot of people because of the productivity-destroying, soul-sucking trend towards open offices for all programming work. If your workplace has fallen prey to this trend, you may still have options. In many countries, large companies will be obligated to provide a space to work in if you are disabled.
 
 ---
-### Addendum
+### Conclusion
 
 Life with my disability is not easy, but thanks to [hedonic adaptation](https://en.wikipedia.org/wiki/Hedonic_treadmill) as well as satisfying [work](http://nsaphra.github.io/publication/) and [hobbies](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. That is why I have tried to give you a lens into my challenges as well as my successes. It is easy to respond to anyone who has overcome adversity with one of two reactions: "It can't be that hard," or "I could never do that". Move past both reactions. It is that hard. You can do it.
 
