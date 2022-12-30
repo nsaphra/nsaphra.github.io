@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nsaphra.github.io/sitemap.xml
