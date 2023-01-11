@@ -7,6 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "Conference on Human Factors in Computing Systems"
-publication_short: "CHI"
+publication_short: "*CHI*"
 url_pdf: "https://vaniea.com/papers/tahaei2020SO.pdf"
 ---

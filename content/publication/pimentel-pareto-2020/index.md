@@ -10,6 +10,6 @@ abstract: "The question of how to probe contextual word representations in a way
 abstract_short: "The question of how to probe contextual word representations in a way that is principled and useful has seen significant recent attention. In our contribution to this discussion, we argue, first, for a probe metric that reflects the trade-off between probe complexity and performance: the Pareto hypervolume."
 selected: false
 publication: "Empirical Methods of Natural Language Processing"
-publication_short: "EMNLP"
+publication_short: "*EMNLP*"
 url_pdf: "http://arxiv.org/abs/2010.02180"
 ---
