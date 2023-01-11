@@ -7,6 +7,10 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)"
+<<<<<<< HEAD
 publication_short: "*CVPR*"
+=======
+publication_short: "*CVPR*",
+>>>>>>> 80bf458e5f2934f0c48eb6f07d342d16fa1abfa9
 url_pdf: "http://hal.archives-ouvertes.fr/hal-00981125/"
 ---
