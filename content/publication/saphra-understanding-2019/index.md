@@ -8,7 +8,7 @@ abstract: "Research has shown that neural models implicitly encode linguistic fe
 abstract_short: "We present the first study on the learning dynamics of neural language models, using a simple and flexible analysis method called Singular Vector Canonical Correlation Analysis (SVCCA), which enables us to compare learned representations across time and across models, without the need to evaluate directly on annotated data."
 featured: true
 publication: "Conference of the North American Chapter of the Association for Computational Linguistics"
-publication_short: "NAACL"
+publication_short: "*NAACL*"
 tags: ["Computer Science - Computation and Language", "Computer Science - Neural and Evolutionary Computing"]
 url_pdf: "https://www.aclweb.org/anthology/N19-1329"
 ---

@@ -20,7 +20,7 @@ publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Workshop on Cultures of AI and AI for Culture at NeurIPS 2022"
-publication_short: "Cultures in AI"
+publication_short: "*NeurIPS Workshop on Cultures in AI*"
 
 abstract: "At NeurIPS, American and Chinese institutions cite papers from each other's regions substantially less than they cite endogamously. We build a citation graph to quantify this divide, compare it to European connectivity, and discuss the causes and consequences of the separation."
 

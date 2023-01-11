@@ -8,6 +8,6 @@ abstract: "Recent work in NLP shows that LSTM language models capture hierarchic
 abstract_short: "Recent work in NLP shows that LSTM language models capture hierarchical structure in language data. In contrast to existing work, we consider the *learning* process that leads to their compositional behavior."
 featured: true
 publication: "Findings of Empirical Methods in Natural Language Processing"
-publication_short: "Findings of EMNLP"
+publication_short: "*Findings of EMNLP*"
 url_pdf: "http://arxiv.org/abs/2010.04650"
 ---
