@@ -34,5 +34,5 @@ abstract: ''
 publication: '*The Gradient*'
 links:
 - name: URL
-  url: r̆lhttps://thegradient.pub/interpretability-creationism
+  url: https://thegradient.pub/interpretability-creationism
 ---
