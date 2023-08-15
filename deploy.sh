@@ -18,11 +18,11 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin main
 
 # Come Back up to the Project Root
 cd ..
 
 git add .
 git commit -m "$msg"
-git push origin master
+git push origin main
