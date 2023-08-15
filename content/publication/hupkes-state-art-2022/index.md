@@ -29,7 +29,7 @@ tags:
 - Computer Science - Artificial Intelligence
 - Computer Science - Computation and Language
 categories: []
-date: '2022-10-01'
+date: '2023-10-01'
 lastmod: 2022-12-29T23:15:52-05:00
 featured: false
 draft: false
@@ -53,7 +53,7 @@ publishDate: '2022-12-30T04:15:52.031527Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Workshop; 9 = Non archival
-publication_types: ["3"]
+publication_types: ["2"]
 abstract: "The ability to generalise well is one of the primary desiderata of natural\
   \ language processing (NLP). Yet, what `good generalisation' entails and how it\
   \ should be evaluated is not well understood, nor are there any common standards\
@@ -74,7 +74,7 @@ abstract: "The ability to generalise well is one of the primary desiderata of na
   \ we intend to up-date as new NLP generalisation studies are published. With this\
   \ work, we aim to make steps towards making state-of-the-art generalisation testing\
   \ the new status quo in NLP."
-publication: '*arXiv*'
+publication: '*Nature Machine Intelligence*'
 doi: 10.48550/arXiv.2210.03050
 links:
 - name: URL

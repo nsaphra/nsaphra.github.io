@@ -55,7 +55,9 @@ I recently had to manage the trap of interpretability creationism myself. My coa
 
 But could we actually make this claim? What if one cluster actually corresponded to earlier stages of a model? Eventually those models would leave for the cluster with better generalization, so our only real result would be that some finetuning runs were slower than others. We had to demonstrate that training trajectories could actually become trapped in a basin, providing an explanation for the diversity of generalization behavior in trained models. Indeed, when we looked at several checkpoints, we confirmed that models that were very central to either cluster would become *even more* strongly connected to the rest of their cluster over the course of training. Instead of offering a just-so story based on a static model, we explored the evolution of observed behavior to confirm our hypothesis.
 
-![k](/img/clusters.png)
+![k](/images/qqp_training.png)
+
+<img src="images/qqp_training.png" width="600"/>
 
 ## A Proposal
 
