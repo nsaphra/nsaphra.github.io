@@ -5,7 +5,7 @@ title: Interpretability Creationism
 subtitle: ''
 summary: ''
 authors:
-- \textbfNaomi \textbfSaphra
+- admin
 tags: []
 categories: []
 date: '2023-01-01'
