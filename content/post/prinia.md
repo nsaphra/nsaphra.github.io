@@ -1,6 +1,6 @@
 +++
 title = "The Parable of the Prinia’s Egg: An Allegory for AI Science"
-date = 2023-09-17T11:00:00+01:00
+date = 2023-09-170:00:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
