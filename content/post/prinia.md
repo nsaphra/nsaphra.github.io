@@ -1,6 +1,6 @@
 +++
 title = "The Parable of the Prinia’s Egg: An Allegory for AI Science"
-date = 2023-09-16T18:11:42+01:00
+date = 2023-09-17T11:00:00+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ summary = "I discuss what counts as strong evidence for an explanation of model 
 [header]
 image = "/images/eggs.jpg"
 caption = ""
-preview = false
+preview = true
 
 +++
 
