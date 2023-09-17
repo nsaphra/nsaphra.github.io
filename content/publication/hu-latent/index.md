@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2023-07-18T01:36:32.831191Z'
 publication_types:
-- '7'
+- '3'
 abstract: ''
 publication: '*ICML High-Dimensional Learning Dynamics Workshop*'
 ---
