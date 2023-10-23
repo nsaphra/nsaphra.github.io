@@ -11,7 +11,7 @@ authors = []
 tags = ["training dynamics", "interpretability", "manifesto"]
 categories = []
 
-summary = "What counts as strong evidence for an explanation of model behavior?"
+summary = "I discuss what counts as strong evidence for an explanation of model behavior."
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
