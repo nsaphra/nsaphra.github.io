@@ -8,10 +8,10 @@ authors = []
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["training dynamics", "interpretability"]
+tags = ["training dynamics", "interpretability", "manifesto"]
 categories = []
 
-summary = "I discuss what counts as strong evidence for an explanation of model behavior."
+summary = "What counts as strong evidence for an explanation of model behavior?"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -30,11 +30,11 @@ preview = true
 
 
 
-When European scientists first encountered the eggs of the tawny-flanked prinia *Prinia subflava*, an African nesting bird, they believed they understood what they had encountered. The prinia lay eggs that exhibited swirls, speckles, and coloration unique to each individual bird. What purpose do such patterns serve in nature? Surely, scientists agreed, these markings allowed the eggs to camouflage and blend into the nest.
+When European scientists first encountered the eggs of the tawny-flanked prinia *Prinia subflava*, an African nesting bird, they believed they understood what they had found. The prinia lay eggs that exhibited swirls, speckles, and coloration unique to each individual bird. What purpose do such patterns serve in nature? Surely, scientists agreed, these markings allowed the eggs to camouflage and blend into the nest.
 
 One 19th century naturalist, Charles Francis Massey Swynnerton, offered an alternative explanation. Why would each bird have its own unique patterns? Swynnerton believed that the markings functioned as watermarks, allowing the nesting bird to differentiate its own eggs from those of the cuckoo finch *Anomalospiza imberbis*. The cuckoo finch is an **obligate brood parasite**, meaning that it does not build its own nest, but instead lays its eggs in the nests of other birds, particularly the prinia.
 
-Since its proposal, evidence for Swynnerton's hypothesis has accumulated.The camouflage hypothesis was based on anecdotal observations of eggs, without correlational or experimental data. In contrast, evidence for the brood parasite hypothesis comes in diverse forms, using many different frameworks for reasoning about causality and explanation, adding up to an indisputable scientific arsenal. What can AI researchers learn from the mature science of biology to strengthen our own evidence and reliably interpret how neural network traits contribute to model behavior?
+Since its proposal, evidence for Swynnerton's hypothesis has accumulated. The camouflage hypothesis was based on anecdotal observations of eggs, without correlational or experimental data. In contrast, evidence for the brood parasite hypothesis comes in diverse forms, using many different frameworks for reasoning about causality and explanation, adding up to an indisputable scientific arsenal. What can AI researchers learn from the mature science of biology to strengthen our own evidence and reliably interpret how neural network traits contribute to model behavior?
 
 ## Instance level interpretability
 
