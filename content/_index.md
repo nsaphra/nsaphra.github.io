@@ -43,6 +43,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      count: 3
       filters:
         folders:
           - publication

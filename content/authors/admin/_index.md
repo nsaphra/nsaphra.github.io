@@ -25,9 +25,8 @@ interests:
   - Artificial Intelligence
   - Natural Language Processing
   - Training Dynamics
-  - Compositionality
-  - Generalization
-  - Loss Surfaces
+  - Compositional Generalization
+  - Animal Communication
 
 # Education to show in About widget
 education:
@@ -93,5 +92,5 @@ email: 'nsaphra@nsaphra.net'
 highlight_name: true
 ---
 
-<span class="change-person" i-content="I am" they-content="Naomi Saphra is" she-content="Naomi Saphra is">I am</span> a research fellow at the [Kempner Institute at Harvard University](https://www.harvard.edu/kempner-institute/). <span class="change-person" i-content="I am" they-content="They are" she-content="She is">I am</span> interested in NLP training dynamics: how models learn to encode linguistic patterns or other structure and how we can encode useful inductive biases into the training process. Previously, <span class="change-person" i-content="I" they-content="they" she-content="she">I</span> earned a PhD from the University of Edinburgh on [Training Dynamics of Neural Language Models](uploads/thesis.pdf); worked at NYU, Google and Facebook; and attended Johns Hopkins and Carnegie Mellon University. Outside of research, <span class="change-person" i-content="I play" they-content="they play" she-content="she plays">I play</span> roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), <span class="change-person" i-content="do" they-content="do" she-content="does">do</span> [standup comedy](https://www.youtube.com/watch?v=BzNDdS-lcqM), and <span class="change-person" i-content="shepherd" they-content="shepherd" she-content="shepherds">shepherd</span> disabled programmers into the world of [code dictation](post/hands/).
+<span class="change-person" i-content="I am" they-content="Naomi Saphra is" she-content="Naomi Saphra is">I am</span> a research fellow at the [Kempner Institute at Harvard University](https://www.harvard.edu/kempner-institute/). <span class="change-person" i-content="I am" they-content="They are" she-content="She is">I am</span> interested in NLP training dynamics: how models learn to encode linguistic patterns or other structure and how we can encode useful inductive biases into the training process. Previously, <span class="change-person" i-content="I" they-content="they" she-content="she">I</span> earned a PhD from the University of Edinburgh on [Training Dynamics of Neural Language Models](uploads/thesis.pdf); worked at NYU, Google and Facebook; and attended Johns Hopkins and Carnegie Mellon University. Outside of research, <span class="change-person" i-content="I play" they-content="they play" she-content="she plays">I play</span> roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/), <span class="change-person" i-content="do" they-content="perform" she-content="performs">perform</span> [standup comedy](https://www.youtube.com/watch?v=BzNDdS-lcqM), and <span class="change-person" i-content="shepherd" they-content="shepherd" she-content="shepherds">shepherd</span> disabled programmers into the world of [code dictation](post/hands/).
 {style="text-align: justify;"}

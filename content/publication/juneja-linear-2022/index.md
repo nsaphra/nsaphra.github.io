@@ -9,5 +9,7 @@ abstract_short: "We find a surprising correlation between loss surface geometry 
 featured: true
 publication: "International Conference on Learning Representations"
 publication_short: "*ICLR*"
-url_pdf: "https://arxiv.org/abs/2205.12411"
+links:
+- name: URL
+  url: "https://arxiv.org/abs/2205.12411"
 ---
