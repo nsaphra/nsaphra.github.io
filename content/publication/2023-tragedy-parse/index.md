@@ -38,5 +38,5 @@ abstract: 'Many NLP researchers are experiencing an existential crisis triggered
 publication: '*arXiv preprint*'
 links:
 - name: URL
-  url: https://arxiv.org/abs/2311.08695
+  url: https://arxiv.org/abs/2311.05020
 ---
