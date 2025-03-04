@@ -1,18 +1,14 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  mode: system
+  color: emerald
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
@@ -23,24 +19,25 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
+    logo:
+      text: "Naomi Saphra"
 
 # Site footer
-
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -51,58 +48,22 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
 
 # Site features
-
 icon:
   pack:
     ai: true
 
+# Site features
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/nsaphra/nsaphra.github.io'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
 
-# Extensions
 
 extensions:
   cms:
@@ -110,9 +71,3 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true

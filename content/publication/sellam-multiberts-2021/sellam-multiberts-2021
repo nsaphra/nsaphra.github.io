@@ -1,8 +1,0 @@
-@inproceedings{
-sellam2022the,
-title={The Multi{BERT}s: {BERT} Reproductions for Robustness Analysis},
-author={Thibault Sellam and Steve Yadlowsky and Ian Tenney and Jason Wei and Naomi Saphra and Alexander D'Amour and Tal Linzen and Jasmijn Bastings and Iulia Raluca Turc and Jacob Eisenstein and Dipanjan Das and Ellie Pavlick},
-booktitle={International Conference on Learning Representations},
-year={2022},
-url={https://openreview.net/forum?id=K0E_F0gFDgA}
-}

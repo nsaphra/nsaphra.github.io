@@ -1,37 +1,27 @@
-+++
-title = "Model Scheduling"
-date = 2018-08-13T15:49:02+01:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
-
-
-summary = "Notes on incrementally constraining the topology of a neural network as a method of regularization."
-
-# Featured image
-# Place ymy image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-math = true
-+++
-
-
-<!--
 ---
-bibliography: 'models.bib'
-csl: 'acm-sigchi.csl'
---- -->
+title: Model Scheduling
+summary: Notes on incrementally constraining the architecture of a neural network as a method of regularization.
+date: 2018-08-13
+authors:
+  - admin
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
+---
+
 
 Models can be built incrementally by modifying their hyperparameters
 during training. This is most common in transfer learning settings, in

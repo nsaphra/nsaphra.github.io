@@ -1,30 +1,10 @@
-+++
-title = "Understanding Latent Dirichlet Allocation"
-
-date = 2012-07-09T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
-
-summary = "An explanation of Latent Dirichlet Allocation (LDA), a common method of topic modeling."
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-
-+++
+---
+title: Understanding Latent Dirichlet Allocation
+summary: An explanation of Latent Dirichlet Allocation (LDA), a common method of topic modeling.
+date: 2012-07-09
+authors:
+  - admin
+---
 
 
 *[Note - This is a repost of a post I made on my old blog while I was in undergrad. I'm including it in case someone finds it useful, since my old blog is defunct. I haven't significantly edited it, so I'm sorry if it doesn't fit into my current style.]*

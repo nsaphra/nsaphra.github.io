@@ -1,30 +1,13 @@
-+++
-title = "Against Monodomainism"
+---
+title: Against Monodomainism
+summary: A petty rant on the exceptional treatment of computer vision applications, directed at the machine learning community.
+date: 2021-04-28
+authors:
+  - admin
 
-date = 2021-04-28T00:00:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
-
-summary = "A petty rant on the exceptional treatment of computer vision applications, directed at the machine learning community."
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-
-+++
+tags:
+  - manifesto
+---
 
 Reaching the endpoint of a PhD studying how language models learn, I have spent several years telling people that I study "machine learning and natural language processing". However, my colleagues who tried to understand or augment image classifiers would describe themselves only as working in "machine learning". I argue that this pattern reflects thinking about what it means to be "application" work or "core" machine learning that damages our understanding of statistical modeling and deep learning as a whole.
 

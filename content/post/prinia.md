@@ -1,29 +1,22 @@
-+++
-title = "The Parable of the Prinia’s Egg: An Allegory for AI Science"
-date = 2023-09-17T11:00:00+01:00
-draft = false
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["training dynamics", "interpretability", "manifesto"]
-categories = []
-
-summary = "I discuss what counts as strong evidence for an explanation of model behavior."
+---
+title: "The Parable of the Prinia's Egg: An Allegory for AI Science"
+summary: I discuss what counts as strong evidence for an explanation of model behavior.
+date: 2023-09-17
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = "/images/eggs.jpg"
-caption = ""
-preview = true
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: Wikimedia(/images/eggs.jpg)'
 
-+++
+authors:
+  - admin
+
+tags:
+  - training dynamics
+  - interpretability
+  - manifesto
+---
+
 
 
 ![Prinia eggs](/images/eggs.jpg)

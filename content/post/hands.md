@@ -1,29 +1,19 @@
-+++
-title = "What Does a Coder Do If They Can't Type?"
-date = 2019-08-08T18:11:42+01:00
-draft = false
+---
+title: What Does a Coder Do If They Can't Type?
+date: 2019-08-08
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors:
+    - admin
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ['personal']
-categories = []
+tags:
+    - personal
 
-summary = "In August of 2015, my hands stopped working. This is what happened next."
+summary: In August of 2015, my hands stopped working. This is what happened next.
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-
-+++
+---
 
 In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the  morning, sending a text, lifting a glass. I was interning at Google that summer about to begin a PhD in Scotland, but coding all day would have left me in agony. In relating this story, I often mention that for months before I learned to work without my hands, I had nothing to do but go to a bar and order a shot of vodka with a straw in it. This is a very funny joke.
 

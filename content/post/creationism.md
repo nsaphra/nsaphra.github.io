@@ -1,34 +1,25 @@
-+++
-title = "Interpretability Creationism"
+---
+title: Interpretability Creationism
 
-date = 2022-06-07T00:00:00
-draft = false
+date: 2022-06-07
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Naomi Saphra"]
+authors:
+    - admin
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["training dynamics", "rant"]
-categories = []
+tags:
+    - training dynamics
+    - manifesto
 
-summary = "Nothing in Deep Learning Makes Sense Except in the Light of SGD."
+summary: Nothing in Deep Learning Makes Sense Except in the Light of SGD.
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = ""
-caption = ""
-preview = true
-
-+++
+---
 
 For centuries, Europeans agreed that the presence of a cuckoo egg was a great honor to a nesting bird, as it granted an opportunity to exhibit Christian hospitality. The devout bird enthusiastically fed her holy guest, even more so than she would her own (evicted) chicks [(Davies, 2015)](https://app.thestorygraph.com/books/37ed3b62-8a3a-448b-9e37-cd5e5f51c640). In 1859, Charles Darwin’s studies of another occasional brood parasite, finches, called into question any rosy, cooperative view of bird behavior [(Darwin, 1859)](https://app.thestorygraph.com/books/44185106-8198-42ef-bacf-8a9bf691e654). Without considering the evolution of the cuckoo’s role, it would have been difficult to recognize the nesting bird not as a gracious host to the cuckoo chick, but as an unfortunate dupe. The historical process is essential to understanding its biological consequences; as evolutionary biologist Theodosius Dobzhansky put it, [Nothing in Biology Makes Sense Except in the Light of Evolution](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution#cite_note-Dobz_Nothing-1).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Reed_warbler_cuckoo.jpg" alt="By Per Harald Olsen - Own work, CC BY-SA 3.0" width="200"/>
+![By Per Harald Olsen - Own work, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/5/5c/Reed_warbler_cuckoo.jpg)
 
 
 
@@ -56,8 +47,6 @@ I recently had to manage the trap of interpretability creationism myself. My coa
 But could we actually make this claim? What if one cluster actually corresponded to earlier stages of a model? Eventually those models would leave for the cluster with better generalization, so our only real result would be that some finetuning runs were slower than others. We had to demonstrate that training trajectories could actually become trapped in a basin, providing an explanation for the diversity of generalization behavior in trained models. Indeed, when we looked at several checkpoints, we confirmed that models that were very central to either cluster would become *even more* strongly connected to the rest of their cluster over the course of training. Instead of offering a just-so story based on a static model, we explored the evolution of observed behavior to confirm our hypothesis.
 
 ![k](/images/qqp_training.png)
-
-<img src="images/qqp_training.png" width="600"/>
 
 ## A Proposal
 

@@ -1,12 +1,27 @@
 ---
-title: "Understanding Objects in Detail with Fine-grained Attributes"
-date: 2014-01-01
-publishDate: 2019-07-25T18:43:51.334998Z
-authors: ["A. Vedaldi", "S. Mahendran", "S. Tsogkas", "S. Maji", "B. Girshick", "J. Kannala", "E. Rahtu", "I. Kokkinos", "M. B. Blaschko", "D. Weiss", "B. Taskar", "K. Simonyan", admin, "S. Mohamed"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)"
-publication_short: "*CVPR*"
-url_pdf: "http://hal.archives-ouvertes.fr/hal-00981125/"
+title: Understanding Objects in Detail with Fine-grained Attributes
+authors:
+- Andrea Vedaldi
+- Siddharth Mahendran
+- Stavros Tsogkas
+- Subhransu Maji
+- Ross Girshick
+- Juho Kannala
+- Esa Rahtu
+- Iasonas Kokkinos
+- Matthew B. Blaschko
+- David Weiss
+- Ben Taskar
+- Karen Simonyan
+- admin
+- Sammy Mohamed
+date: '2014-01-01'
+publishDate: '2025-03-04T20:11:45.056050Z'
+publication_types:
+- paper-conference
+publication: '*Computer Vision and Pattern Recognition (CVPR)*'
+
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/6909858
 ---

@@ -1,35 +1,51 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: ""
+date: 2025-02-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-  - block: v1/about
-    id: about
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/academic_cv.pdf
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        My core research is centered on a single agenda: to completely and comprehensively understand the training of language models. This objective combines linguistics, optimization, training dynamics, science of deep learning, interpretability,  and behavioral analysis. I have extended recently towards using similar approaches to study scientific discovery models, enhancing broader scientific understanding.
+
+        My current publication list is available on my [Google Scholar](https://scholar.google.com/citations?user=TPhVfX8AAAAJ&hl=en).
+    design:
+      columns: '1'
   - block: collection
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 4
       # Filter on criteria
       filters:
-        folders:
-          - post
         author: ""
         category: ""
         tag: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false
-        tags_exclude:
-          - draft
         publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
@@ -37,76 +53,29 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
-    id: featured
+    id: papers
     content:
       title: Featured Publications
-      count: 3
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      text: ""
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
-      columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      count: 3
-      filters:
-        folders:
-          - event
-        featured_only: true
-    design:
-      columns: '2'
-      view: compact
-#  - block: tag_cloud
-#    content:
-#      title: Popular Topics
-#    design:
-#      columns: '2'
-#  - block: contact
-#    id: contact
-#    content:
-#      title: Contact
-#      subtitle:
-#      text: |-
-#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-#      # Contact (add or remove contact options as necessary)
-#      email: test@example.org
-##      appointment_url: 'https://calendly.com'
-#      contact_links:
-#        - icon: twitter
-#          icon_pack: fab
-#          name: DM Me
-#          link: 'https://twitter.com/nsaphra'
-#      # Automatically link email and phone or display as text?
-#      autolink: true
-#      # Email form provider
-#      form:
-#        provider: netlify
-#        formspree:
-#          id:
-#        netlify:
-#          # Enable CAPTCHA challenge to reduce spam?
-#          captcha: false
-#    design:
-#      columns: '2'
 ---
