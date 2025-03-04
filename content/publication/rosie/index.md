@@ -10,6 +10,10 @@ publication_types:
 - preprint
 featured: true
 publication: '*NeurIPS Workshop on Scientific Methods for Understanding Deep Learning*'
+tags:
+- large language models
+- science of deep learning
+- compositionality
 links:
 - name: URL
   url: https://openreview.net/forum?id=e8eo9iEFaO#discussion
