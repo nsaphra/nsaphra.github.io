@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: nsaphra.net/sitemap.xml
+Sitemap: https://nsaphra.net/sitemap.xml
