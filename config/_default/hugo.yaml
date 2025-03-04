@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Naomi Saphra # Website name
-baseURL: 'nsaphra.net' # Website URL
+baseURL: 'https://nsaphra.net' # Website URL
 
 ############################
 ## LANGUAGE
