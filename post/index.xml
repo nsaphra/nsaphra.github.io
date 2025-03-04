@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Naomi Saphra</title><link>https://nsaphra.github.io/post/</link><atom:link href="https://nsaphra.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 11:00:00 +0100</lastBuildDate><image><url>https://nsaphra.github.io/media/icon_huf0b254c5fb6316cc66f507f70b041c15_37368_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://nsaphra.github.io/post/</link></image><item><title>The Parable of the Prinia’s Egg: An Allegory for AI Science</title><link>https://nsaphra.github.io/post/prinia/</link><pubDate>Sun, 17 Sep 2023 11:00:00 +0100</pubDate><guid>https://nsaphra.github.io/post/prinia/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Naomi Saphra</title><link>https://nsaphra.github.io/post/</link><atom:link href="https://nsaphra.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://nsaphra.github.io/media/icon_hu_ecc3d54b494abbac.png</url><title>Blog</title><link>https://nsaphra.github.io/post/</link></image><item><title>The Parable of the Prinia's Egg: An Allegory for AI Science</title><link>https://nsaphra.github.io/post/prinia/</link><pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate><guid>https://nsaphra.github.io/post/prinia/</guid><description>&lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/eggs.jpg" alt="Prinia eggs" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -14,7 +14,7 @@
 &lt;p>To address the epistemology of interpretability, let us construct a case study of the scientific literature on an observed phenomenon in neural networks. One well-documented and intuitive behavior is how Transformer-based &lt;strong>masked language models&lt;/strong> (MLMs) have specialized attention heads that focus on a specific dependency relation, a trait we will call &lt;strong>Syntactic Attention Structure&lt;/strong> (SAS). We can illustrate SAS with an example sentence.&lt;/p>
 &lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/parse_example.png" alt="My bird builds ugly nests" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -45,7 +45,7 @@
 &lt;p>Correlational evidence is stronger when the variation in a population is known to be random, other than the metrics in focus, because this scenario allows us to control for the effect of confounding factors. This is the reason why, for example, genetics studies that use adopted children are stronger than those that study children raised by their biological parents, thereby confounding nature and nurture. Fortunately, deep learning allows us to generate random variation across models easily, by varying the training seed.&lt;/p>
 &lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/corr_plots.png" alt="Correlation scatterplots." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -54,7 +54,7 @@
 &lt;h3 id="developmental-observational">Developmental observational&lt;/h3>
 &lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/development_plots.png" alt="BERT training." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -62,7 +62,7 @@
 &lt;h3 id="developmental-causal">Developmental causal&lt;/h3>
 &lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/causal_plots.png" alt="Bert training with causal interventions." loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
@@ -71,7 +71,12 @@
 &lt;p>By monitoring MLM training, we have found epistemically strong evidence of a connection between SAS and model performance, in particular through linguistic capabilities. These results are described in a new paper led by &lt;a href="https://angie-chen55.github.io/" target="_blank" rel="noopener">Angelica Chen&lt;/a> working with &lt;a href="https://www.ravid-shwartz-ziv.com/" target="_blank" rel="noopener">Ravid Schwartz-Ziv&lt;/a>, &lt;a href="https://kyunghyuncho.me/" target="_blank" rel="noopener">Kyunghyun Cho&lt;/a>, &lt;a href="https://mleavitt.net/" target="_blank" rel="noopener">Matthew Leavitt&lt;/a>, and me: &lt;a href="https://arxiv.org/abs/2309.07311" target="_blank" rel="noopener">Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs&lt;/a>.&lt;/p>
 &lt;p>Beyond the results obtained through our approach to interpretability epistemology, this paper also presents a large number of related findings. The full paper is worth reading, I think, as the results described here might not even be the most interesting part! We link these interpretable training dynamics to the broader literature on simplicity bias, model complexity, and phase transitions. We even show how our methods can be used to improve MLM performance by suppressing SAS briefly at the beginning of training. By questioning a seemingly settled result in interpretability, we developed a deeper understanding of MLM training.&lt;/p>
 &lt;p>&lt;em>All preceding discussion of the research on brood parasites comes from one of my favorite books, &lt;a href="https://www.goodreads.com/en/book/show/22529402" target="_blank" rel="noopener">Cuckoo: Cheating by Nature&lt;/a> by Nick Davies. I highly recommend it to anyone interested in a deep dive on the evolution of a single survival strategy.&lt;/em>&lt;/p></description></item><item><title>Interpretability Creationism</title><link>https://nsaphra.github.io/post/creationism/</link><pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate><guid>https://nsaphra.github.io/post/creationism/</guid><description>&lt;p>For centuries, Europeans agreed that the presence of a cuckoo egg was a great honor to a nesting bird, as it granted an opportunity to exhibit Christian hospitality. The devout bird enthusiastically fed her holy guest, even more so than she would her own (evicted) chicks &lt;a href="https://app.thestorygraph.com/books/37ed3b62-8a3a-448b-9e37-cd5e5f51c640" target="_blank" rel="noopener">(Davies, 2015)&lt;/a>. In 1859, Charles Darwin’s studies of another occasional brood parasite, finches, called into question any rosy, cooperative view of bird behavior &lt;a href="https://app.thestorygraph.com/books/44185106-8198-42ef-bacf-8a9bf691e654" target="_blank" rel="noopener">(Darwin, 1859)&lt;/a>. Without considering the evolution of the cuckoo’s role, it would have been difficult to recognize the nesting bird not as a gracious host to the cuckoo chick, but as an unfortunate dupe. The historical process is essential to understanding its biological consequences; as evolutionary biologist Theodosius Dobzhansky put it, &lt;a href="https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution#cite_note-Dobz_Nothing-1" target="_blank" rel="noopener">Nothing in Biology Makes Sense Except in the Light of Evolution&lt;/a>.&lt;/p>
-&lt;img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Reed_warbler_cuckoo.jpg" alt="By Per Harald Olsen - Own work, CC BY-SA 3.0" width="200"/>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Reed_warbler_cuckoo.jpg" alt="By Per Harald Olsen - Own work, CC BY-SA 3.0" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Certainly SGD is not literally biological evolution, but post-hoc analysis in machine learning &lt;a href="https://twitter.com/ch402/status/1533164918886703104" target="_blank" rel="noopener">has a lot in common&lt;/a> with scientific approaches in biology, and likewise often requires an understanding of the origin of model behavior. Therefore, the following holds whether looking at parasitic brooding behavior or at the inner representations of a neural network: if we do not consider how a system develops, it is difficult to distinguish a pleasing story from a useful analysis.&lt;/p>
 &lt;h2 id="just-so-stories">Just-So Stories&lt;/h2>
 &lt;p>We have many pleasing &lt;a href="https://en.wikipedia.org/wiki/Just_So_Stories" target="_blank" rel="noopener">just-so stories&lt;/a> in NLP. Much has been made of interpretable artifacts such as &lt;a href="https://aclanthology.org/2022.acl-long.269.pdf" target="_blank" rel="noopener">syntactic attention distributions&lt;/a> or &lt;a href="https://openai.com/blog/unsupervised-sentiment-neuron/" target="_blank" rel="noopener">selective neurons&lt;/a>. But how can we know if such a pattern of behavior is actually used by the model?
@@ -86,11 +91,10 @@ Causal modeling can help, but interventions to test the influence of particular 
 &lt;p>But could we actually make this claim? What if one cluster actually corresponded to earlier stages of a model? Eventually those models would leave for the cluster with better generalization, so our only real result would be that some finetuning runs were slower than others. We had to demonstrate that training trajectories could actually become trapped in a basin, providing an explanation for the diversity of generalization behavior in trained models. Indeed, when we looked at several checkpoints, we confirmed that models that were very central to either cluster would become &lt;em>even more&lt;/em> strongly connected to the rest of their cluster over the course of training. Instead of offering a just-so story based on a static model, we explored the evolution of observed behavior to confirm our hypothesis.&lt;/p>
 &lt;p>
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://nsaphra.github.io/images/qqp_training.png" alt="k" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;img src="images/qqp_training.png" width="600"/>
 &lt;h2 id="a-proposal">A Proposal&lt;/h2>
 &lt;p>To be clear, not every question can be answered by &lt;em>only&lt;/em> observing the training process. Causal claims require interventions! In biology, for example, research about antibiotic resistance requires us to deliberately expose bacteria to antibiotics, rather than waiting and hoping to find a natural experiment. Even the claims currently being made based on observations of training dynamics may require experimental confirmation.&lt;/p>
 &lt;p>Furthermore, not all claims require &lt;em>any&lt;/em> observation of the training process. Even to ancient humans, many organs had obvious purpose: eyes see, hearts pump blood, and &lt;a href="https://www.scientificamerican.com/article/aristotle-thought-the-brain-was-a-radiator/" target="_blank" rel="noopener">brains are refrigerators&lt;/a>. Likewise in NLP, just by analyzing static models we can make simple claims: that particular neurons activate in the presence of particular properties, or that some types of information remain accessible within a model. However, the training dimension can still clarify the meaning of many observations made in a static model.&lt;/p>
@@ -109,7 +113,7 @@ Causal modeling can help, but interventions to test the influence of particular 
 &lt;p>*CL venues have also become distanced from work in computational linguistics &lt;a href="https://www.aclweb.org/anthology/J07-2013.pdf" target="_blank" rel="noopener">(Reiter, 2007)&lt;/a>, leaving NLP as a field deprived of new scientific work in its data domain as well as new scientific work in its methodologies.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>What Does a Coder Do If They Can't Type?</title><link>https://nsaphra.github.io/post/hands/</link><pubDate>Thu, 08 Aug 2019 18:11:42 +0100</pubDate><guid>https://nsaphra.github.io/post/hands/</guid><description>&lt;p>In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the morning, sending a text, lifting a glass. I was interning at Google that summer about to begin a PhD in Scotland, but coding all day would have left me in agony. In relating this story, I often mention that for months before I learned to work without my hands, I had nothing to do but go to a bar and order a shot of vodka with a straw in it. This is a very funny joke.&lt;/p>
+&lt;/div></description></item><item><title>What Does a Coder Do If They Can't Type?</title><link>https://nsaphra.github.io/post/hands/</link><pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate><guid>https://nsaphra.github.io/post/hands/</guid><description>&lt;p>In August of 2015, my hands stopped working. I could still control them, but every movement accumulated more pain, so every motion came with a cost: getting dressed in the morning, sending a text, lifting a glass. I was interning at Google that summer about to begin a PhD in Scotland, but coding all day would have left me in agony. In relating this story, I often mention that for months before I learned to work without my hands, I had nothing to do but go to a bar and order a shot of vodka with a straw in it. This is a very funny joke.&lt;/p>
 &lt;p>I have been in pain for four years.&lt;/p>
 &lt;hr>
 &lt;h2 id="talon">Talon&lt;/h2>
@@ -144,7 +148,7 @@ Causal modeling can help, but interventions to test the influence of particular 
 &lt;p>If you are a vim or Emacs power user, this may all feel familiar to you. I have commands for searching, moving a cursor, selection, and manipulating the clipboard. Learning to dictate code is a lot like learning a new text editor very thoroughly, down to the challenge of customizing for your particular languages and needs.&lt;/p>
 &lt;p>The &lt;a href="https://github.com/dwiel/talon_community" target="_blank" rel="noopener">Talon community&lt;/a> has specialized commands that take effect depending on application or programming language. For a Perl user, for example, a good starting point might be to borrow settings from Emily Shea:&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/Mz3JeYfBTcY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Mz3JeYfBTcY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
 &lt;/div>
 &lt;p>My Talon setup relies on Dragon for the speech recognition side. Unfortunately, Nuance has discontinued OSX Dragon editions that make scripting possible. The coder behind Talon, &lt;a href="http://ryanhileman.com/" target="_blank" rel="noopener">Ryan Hileman&lt;/a>, is working on a suitable replacement but at time of writing, it is not yet ready.&lt;/p>
 &lt;hr>
@@ -173,12 +177,7 @@ Causal modeling can help, but interventions to test the influence of particular 
 &lt;p>Life with my disability is not easy, but thanks to &lt;a href="https://en.wikipedia.org/wiki/Hedonic_treadmill" target="_blank" rel="noopener">hedonic adaptation&lt;/a> as well as satisfying &lt;a href="http://nsaphra.github.io/publication/" target="_blank" rel="noopener">work&lt;/a> and &lt;a href="https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/" target="_blank" rel="noopener">hobbies&lt;/a>, I am actually very happy. If you have recently developed a disability or chronic pain condition, it may feel like you could never adjust to the lifestyle required. That is why I have tried to give you a lens into my challenges as well as my successes. It is easy to respond to anyone who has overcome adversity with one of two reactions: &amp;ldquo;It can&amp;rsquo;t be that hard,&amp;rdquo; or &amp;ldquo;I could never do that&amp;rdquo;. Move past both reactions. It is that hard. You can do it.&lt;/p>
 &lt;p>If you are currently able-bodied, please support your disabled colleagues, coworkers, and anyone you have power over in their quest to do valuable and fulfilling work. I encourage other disabled scientists and programmers to reach out to me with any questions they have.&lt;/p>
 &lt;hr>
-&lt;p>&lt;em>Thank you for comments on early drafts: &lt;a href="http://www.cs.jhu.edu/~vandurme/Carrell.html" target="_blank" rel="noopener">Annabelle Carrell&lt;/a>, &lt;a href="http://www.craiginnes.com/" target="_blank" rel="noopener">Craig Innes&lt;/a>, &lt;a href="https://twitter.com/uscm_" target="_blank" rel="noopener">Matthew Summers&lt;/a>, &lt;a href="https://www.dinalevitan.com/" target="_blank" rel="noopener">Dina Lev&lt;/a>, &lt;a href="https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schlecdk/index.en.html" target="_blank" rel="noopener">Dominik Schlechtweg&lt;/a>, and &lt;a href="https://americanstudies.yale.edu/people/yuhe-faye-wang" target="_blank" rel="noopener">Yuhe Faye Wang&lt;/a> (who is in The Humanities!). Thank you to &lt;a href="https://www.recurse.com/" target="_blank" rel="noopener">The Recurse Center&lt;/a> for providing a private space for me to learn to dictate code. Thank you to my PhD advisor, &lt;a href="https://alopez.github.io/" target="_blank" rel="noopener">Adam Lopez&lt;/a>, who has unfailingly supported me and made all of this possible.&lt;/em>&lt;/p></description></item><item><title>Model Scheduling</title><link>https://nsaphra.github.io/post/model-scheduling/</link><pubDate>Mon, 13 Aug 2018 15:49:02 +0100</pubDate><guid>https://nsaphra.github.io/post/model-scheduling/</guid><description>&lt;!--
----
-bibliography: 'models.bib'
-csl: 'acm-sigchi.csl'
---- -->
-&lt;p>Models can be built incrementally by modifying their hyperparameters
+&lt;p>&lt;em>Thank you for comments on early drafts: &lt;a href="http://www.cs.jhu.edu/~vandurme/Carrell.html" target="_blank" rel="noopener">Annabelle Carrell&lt;/a>, &lt;a href="http://www.craiginnes.com/" target="_blank" rel="noopener">Craig Innes&lt;/a>, &lt;a href="https://twitter.com/uscm_" target="_blank" rel="noopener">Matthew Summers&lt;/a>, &lt;a href="https://www.dinalevitan.com/" target="_blank" rel="noopener">Dina Lev&lt;/a>, &lt;a href="https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schlecdk/index.en.html" target="_blank" rel="noopener">Dominik Schlechtweg&lt;/a>, and &lt;a href="https://americanstudies.yale.edu/people/yuhe-faye-wang" target="_blank" rel="noopener">Yuhe Faye Wang&lt;/a> (who is in The Humanities!). Thank you to &lt;a href="https://www.recurse.com/" target="_blank" rel="noopener">The Recurse Center&lt;/a> for providing a private space for me to learn to dictate code. Thank you to my PhD advisor, &lt;a href="https://alopez.github.io/" target="_blank" rel="noopener">Adam Lopez&lt;/a>, who has unfailingly supported me and made all of this possible.&lt;/em>&lt;/p></description></item><item><title>Model Scheduling</title><link>https://nsaphra.github.io/post/model-scheduling/</link><pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate><guid>https://nsaphra.github.io/post/model-scheduling/</guid><description>&lt;p>Models can be built incrementally by modifying their hyperparameters
 during training. This is most common in transfer learning settings, in
 which we seek to adapt the knowledge in an existing model for a new
 domain or task. The more general problem of continuous learning is also
@@ -509,7 +508,7 @@ is trained using an objective that combines a loss function applied to true labe
 &lt;p>Confused? Ready for a picture ripped off Wikipedia?&lt;/p>
 &lt;p>&lt;a href="http://commons.wikimedia.org/wiki/File:Dirichlet_distributions.png" target="_blank" rel="noopener">
 &lt;figure >
-&lt;div class="d-flex justify-content-center">
+&lt;div class="flex justify-center ">
 &lt;div class="w-100" >&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dirichlet_distributions.png/695px-Dirichlet_distributions.png" alt="Dirichlet Distributions" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/a>&lt;/p>
