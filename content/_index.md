@@ -20,10 +20,10 @@ sections:
         url: uploads/academic_cv.pdf
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        My core research is centered on a single agenda: to completely and comprehensively understand the training of language models. This objective combines linguistics, optimization, training dynamics, science of deep learning, interpretability,  and behavioral analysis. I have extended recently towards using similar approaches to study scientific discovery models, enhancing broader scientific understanding.
+        My core agenda focuses on a single goal: to completely and comprehensively understand language model training. This objective combines linguistics, optimization, learning dynamics, science of deep learning, interpretability,  and behavioral analysis. Recently, I have begun using similar approaches to study scientific discovery models and enhance broader scientific understanding.
 
         My current publication list is available on my [Google Scholar](https://scholar.google.com/citations?user=TPhVfX8AAAAJ&hl=en).
     design:
