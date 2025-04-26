@@ -68,3 +68,11 @@ One of the largest attempts to move AI researchers en masse from Twitter to Blue
 There was one other bottleneck event: After the Trump inauguration, it became impossible to see anything but US political news on bluesky for a couple weeks. Many researchers gave up. Now, the continued improvement and proliferation of custom feed algorithms should help prevent the same issue from cropping back up.
 
 These aren't fundamental problems. Many senior academics have migrated to Bluesky, leaving students and tech industry workers as the bulk of X's remainders. Other scientific fields have switched in their entirety. AI research appears to be more of an outlier if anything, due to the overlap between scientific research and the tech industry.
+
+## Addendum: Bonus Tips
+
+After writing this post, I immediately learned two more tips that have improved my own Discover feed!
+- The official Discover Feed actually has a "show more / less like this" menu item on each post, which I will be taking advantage of.
+- I removed a lot of the politics from my non-focused feeds through `Settings -> Moderation -> Muted Words & Tags` where I added: "Trump", "RFK", and "Elon".
+
+I hadn't been using Discover lately because it was all politics, but it's looking much better now!
