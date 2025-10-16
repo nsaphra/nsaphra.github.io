@@ -32,7 +32,7 @@ If you are an AI researcher, I absolutely recommend adding three feeds:
 - [MLSky](https://bsky.app/profile/alexr.bsky.social/feed/MLSky): This feed is a bit of a firehose. It’s worth following, but it’s chronological so occasionally it’ll just show the last 30 links simultaneously posted by some arxiv tracker bot.
 
 Additionally, you should definitely be following:
-- [Discover](https://bsky.app/profile/bsky.app/feed/whats-hot): Says what it is, this is the official personalized trending feed. Not bad but a lot of politics in mine.
+- ~~[Discover](https://bsky.app/profile/bsky.app/feed/whats-hot): Says what it is, this is the official personalized trending feed. Not bad but a lot of politics in mine.~~ **Update:** I now recommend [For You](https://bsky.app/profile/spacecowboy17.bsky.social/feed/for-you), a MASSIVE improvement over the official Discover.
 - [Best of Follows](https://bsky.app/profile/bsky.app/feed/best-of-follows): Another official feed, trending posts from accounts you follow.
 - [Quiet Posters](https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/feed/infreq): This is the most important feed, especially if you are trying to follow science and not politics. Everyone you follow who posts infrequently. If your follow list is like mine, it’ll be more papers and research chat.
 
@@ -76,3 +76,6 @@ After writing this post, I immediately learned two more tips that have improved 
 - I removed a lot of the politics from my non-focused feeds through `Settings -> Moderation -> Muted Words & Tags` where I added: "Trump", "RFK", and "Elon".
 
 I hadn't been using Discover lately because it was all politics, but it's looking much better now!
+
+I'd also add the new [ML Feed Blend](https://bsky.app/profile/smcgrath.phd/feed/MLBlend) to your mix, which is based on a user whitelist.
+
