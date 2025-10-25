@@ -28,7 +28,7 @@ Bluesky doesn’t default to an official algorithmic feed. By default, you’ll 
 
 If you are an AI researcher, I absolutely recommend adding three feeds:
 - [Paper Skygest](https://bsky.app/profile/paper-feed.bsky.social/feed/preprintdigest): a personalized feed of just posts that link to papers, curated based on your follow network.
-- [ML Ranked Feed](https://bsky.app/profile/smcgrath.phd/feed/aaals4dn6kcoi): Trending machine learning posts. Tracks popular terms and any post with the emoji sequence 🤖🧠 (so put it in your posts if you want them picked up!)
+- ~~[ML Ranked Feed](https://bsky.app/profile/smcgrath.phd/feed/aaals4dn6kcoi): Trending machine learning posts. Tracks popular terms and any post with the emoji sequence 🤖🧠 (so put it in your posts if you want them picked up!)~~ Ranked is discontinued and replaced with [ML Feed Blend](https://bsky.app/profile/smcgrath.phd/feed/MLBlend), which I highly recommend!
 - [MLSky](https://bsky.app/profile/alexr.bsky.social/feed/MLSky): This feed is a bit of a firehose. It’s worth following, but it’s chronological so occasionally it’ll just show the last 30 links simultaneously posted by some arxiv tracker bot.
 
 Additionally, you should definitely be following:
@@ -77,5 +77,4 @@ After writing this post, I immediately learned two more tips that have improved 
 
 I hadn't been using Discover lately because it was all politics, but it's looking much better now!
 
-I'd also add the new [ML Feed Blend](https://bsky.app/profile/smcgrath.phd/feed/MLBlend) to your mix, which is based on a user whitelist.
 
