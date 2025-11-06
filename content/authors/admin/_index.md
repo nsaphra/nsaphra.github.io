@@ -6,6 +6,8 @@ title: Naomi Saphra
 first_name: Naomi
 last_name: Saphra
 
+user_groups: ["Principal Investigator"]
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -13,7 +15,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Research Fellow 
+
 
 # Organizations/Affiliations to show in About widget
 organizations:

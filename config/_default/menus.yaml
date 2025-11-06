@@ -10,9 +10,12 @@ main:
   - name: Posts
     url: '/#posts'
     weight: 20
-  - name: Publications
-    url: '/#papers'
-    weight: 30
+  # - name: People
+  #   url: '/#people'
+  #   weight: 20
+  # - name: Publications
+  #   url: '/#papers'
+  #   weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
