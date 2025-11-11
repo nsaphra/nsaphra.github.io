@@ -20,6 +20,20 @@ sections:
         url: uploads/academic_cv.pdf
   - block: markdown
     content:
+      title: 'Contacting me'
+      subtitle: 'Read before emailing me or I may ignore your message'
+      text: |-
+        You do not need to email me to apply to my lab. If you want to cold email me anyway, please follow these steps to ensure I read it:
+        - Include the word “cuttlefish” in the subject line. (It doesn’t need context.)
+        - Open your email by discussing a detail from one of my papers and explaining why you found it interesting. The detail must not be described in the paper’s abstract.
+
+        If I receive a cold email asking about opportunities at my lab which does not follow the above directions, I won't read it. I do still welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry.
+
+        I welcome any messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: 'My Research'
       subtitle: ''
       text: |-
