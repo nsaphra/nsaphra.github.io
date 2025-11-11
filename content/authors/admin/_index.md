@@ -43,7 +43,7 @@ profiles:
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.co.uk/citations?user=TPhVfX8AAAAJ
+    url: https://scholar.google.com/citations?user=TPhVfX8AAAAJ
   - icon: academicons/semantic-scholar
     url: https://www.semanticscholar.org/author/Naomi-Saphra/2362960
 # Interests to show in About widget
@@ -76,4 +76,4 @@ education:
 
 I am a research fellow at the [Kempner Institute at Harvard University](https://www.harvard.edu/kempner-institute/) and incoming Assistant Professor in Boston University's faculty of [Computing \& Data Science](https://www.bu.edu/cds-faculty/). I am interested in NLP training dynamics: how models learn to encode linguistic patterns or other structure and how we can encode useful inductive biases into the training process. Recently, I have begun collaborating with natural and social scientists to use interpretability to understand the world around us. I have become particularly interested in fish. Previously, I earned a PhD from the University of Edinburgh on [Training Dynamics of Neural Language Models](uploads/thesis.pdf); worked at NYU, Google and Facebook; and attended Johns Hopkins and Carnegie Mellon University. Outside of research, I play roller derby under the name [Gaussian Retribution](https://auldreekierollerderby.com/2019/08/10/the-one-gift-i-received-along-with-my-disability/) and perform [standup comedy](https://www.youtube.com/watch?v=BzNDdS-lcqM).
 
-***I am recruiting PhD students to begin in 2026 at Boston University. Do not email me before reading my contact notes below. I will ignore your email.***
+***I am recruiting PhD students to begin in 2026 at Boston University. Do not email me before reading my [contact notes](/#contact) if you want me to read your message.***

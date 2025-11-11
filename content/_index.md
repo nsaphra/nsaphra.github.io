@@ -19,25 +19,17 @@ sections:
         text: Download CV
         url: uploads/academic_cv.pdf
   - block: markdown
-    content:
-      title: 'Contacting me'
-      subtitle: 'Read before emailing me or I may ignore your message'
-      text: |-
-        You do not need to email me to apply to my lab. If you want to cold email me anyway, please follow these steps to ensure I read it:
-        - Include the word “cuttlefish” in the subject line. (It doesn’t need context.)
-        - Open your email by discussing a detail from one of my papers and explaining why you found it interesting. The detail must not be described in the paper’s abstract.
-
-        If I receive a cold email asking about opportunities at my lab which does not follow the above directions, I won't read it. I do still welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry.
-
-        I welcome any messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
-    design:
-      columns: '1'
-  - block: markdown
+    id: research
     content:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My core agenda focuses on a single goal: to completely and comprehensively understand language model training. This objective combines linguistics, optimization, learning dynamics, science of deep learning, interpretability,  and behavioral analysis. Recently, I have begun using similar approaches to study scientific discovery models and enhance broader scientific understanding.
+        I want to completely and comprehensively understand language model training. This objective combines linguistics, optimization, learning dynamics, science of deep learning, interpretability,  and behavioral analysis. Recently, I have begun using similar approaches to study scientific discovery models and enhance broader scientific understanding.
+
+        My top three current research goals are:
+        - Leveraging training trajectories and variation between runs to identify what concepts are significant and distinct to a model and how they relate. 
+        - Predicting model behavior by holistically understanding models on a computational and algorithmic level. 
+        - Expanding human understanding of the world by studying how models learn to simulate it. To achieve this interdisciplinary objective, my current collaborations aim to deeply understand fish, stars, and weather as well as language.
 
         My current publication list is available on my [Google Scholar](https://scholar.google.com/citations?user=TPhVfX8AAAAJ&hl=en).
     design:
@@ -71,4 +63,19 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: markdown
+    id: contact
+    content:
+      title: 'Contacting me'
+      subtitle: 'Read before emailing me or I may ignore your message'
+      text: |-
+        You do not need to email me to apply to my lab. If you want to cold email me anyway, please follow these steps to ensure I read it:
+        - Include the word “cuttlefish” in the subject line. (It doesn’t need context.)
+        - Open your email by discussing a detail from one of my papers and explaining why you found it interesting. The detail must not be described in the paper’s abstract.
+
+        If I receive a cold email asking about opportunities at my lab which does not follow the above directions, I won't read it. I do still welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry.
+
+        I welcome any messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
+    design:
+      columns: '1'
 ---

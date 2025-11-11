@@ -18,9 +18,9 @@ summary: Statements from my faculty applications.
 
 So you're thinking about going on the academic job market. This year is a bad year for the academic job market. Fortunately, every year is a bad year for the academic job market, so maybe you're ok.
 
-I applied during 2025, which was an exceptionally bad year. Many universities had downscaled or canceled their faculty searches. For many of the remaining positions, the search was delayed, meaning that "exploding offers" were even higher pressure than usual because several universities didn't send out interview invitations until late Spring. Fortunately, I got an ideal offer from Boston University early in the season, which I accepted without hesitation and without regrets.
+I applied during 2025, which was an exceptionally bad year. Many universities had downscaled or canceled their faculty searches. For many of the remaining positions, the search was delayed, meaning that "exploding offers" were even higher pressure than usual because several universities didn't send out interview invitations until late Spring. Fortunately, I was able to accept an ideal offer from Boston University early in the season.
 
-My goal here is not to provide general advice but to offer my own application materials help others writing theirs. Note that most universities no longer accept diversity statements, but "diversity" statements were always really service statements---the goal is to show that you have a sense of responsibility and would be a good prosocial colleague, not to enumerate your axes of marginalization. If the job applications allows for a service or community statement, you can still use mine as an example.
+My goal here is not to provide general advice but to offer my own application materials help others writing theirs. Note that most universities no longer accept diversity statements, but "diversity" statements were always really service statements---the goal is to show that you have a sense of responsibility and would be a good prosocial colleague, not to enumerate your axes of marginalization. If the job application allows for a service or community statement, you can still use my statement as an example.
 
 - [Cover Letter](/uploads/faculty_apps/cover_letter.pdf)
 - [Research Statement](/uploads/faculty_apps/research_statement.pdf)

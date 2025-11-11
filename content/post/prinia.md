@@ -1,6 +1,6 @@
 ---
 title: "The Parable of the Prinia's Egg: An Allegory for AI Science"
-summary: I discuss what counts as strong evidence for an explanation of model behavior.
+summary: What counts as strong evidence for an explanation of model behavior?
 date: 2023-09-17
 
 # Featured image
