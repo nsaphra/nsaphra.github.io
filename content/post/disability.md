@@ -12,6 +12,7 @@ authors:
 tags:
     - manifesto
 
+draft: true
 summary: Links to writing on disability.
 
 ---
