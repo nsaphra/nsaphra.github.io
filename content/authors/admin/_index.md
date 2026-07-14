@@ -36,8 +36,8 @@ profiles:
   #   url: https://sigmoid.social/@nsaphra
   #   label: Follow Me on Mastodon
   - icon: brands/x
-    url: https://twitter.com/nsaphra
-    label: Follow Me on Twitter
+    url: https://x.com/nsaphra
+    label: Follow Me on X
   # - icon: brands/github
   #   url: https://github.com/nsaphra
   # - icon: brands/linkedin
