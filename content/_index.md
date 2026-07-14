@@ -67,15 +67,9 @@ sections:
     id: contact
     content:
       title: 'Potential Mentees'
-      subtitle: 'Read before emailing me or I may ignore your message'
+      subtitle: 'Read before emailing me'
       text: |-
-        You do not need to email me to apply to my lab. If you want to cold email me about an opportunity anyway, please follow these steps:
-        - Include the word “cuttlefish” in the subject line. (It doesn’t need context.)
-        - Open your email by discussing a detail from one of my papers and explaining why you found it interesting. The detail must not be described in the paper’s abstract.
-
-        If I receive a cold email asking about opportunities at my lab which does not follow the above directions, I won't read it. I do still welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry.
-
-        I am not currently hiring interns or looking for remote junior collaborators.
+        You do not need to email me to apply to my lab and it will offer most applicants no advantage to do so. One exception for applicants with existing work to share: If your work is *highly* relevant to me, feel free to reach out to discuss it. I am not currently hiring interns or looking for remote junior collaborators. I welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry. 
 
         I welcome any messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
 
