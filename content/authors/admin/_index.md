@@ -15,13 +15,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow 
+role: Assistant Professor
 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Harvard University 
-    url: https://kempnerinstitute.harvard.edu/
+  - name: Boston University
+    url: https://www.bu.edu/cds-faculty/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
