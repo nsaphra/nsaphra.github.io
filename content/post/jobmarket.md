@@ -3,6 +3,10 @@ title: Faculty Market Portfolio
 
 date: 2025-09-29
 
+build:
+  list: never
+  render: always
+  
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
     - admin
