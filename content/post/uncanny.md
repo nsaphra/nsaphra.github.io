@@ -20,13 +20,13 @@ summary: We were wrong about the Uncanny Valley.
 
 ---
 
-I called the hospital's urgent line today. A new coordinator answered the phone. She was warm, professional, and direct. Her voice was melodious. She barely paused in her list of questions, and as I gave her details to relay to the on-call physician, I tried to ignore a sick itch in my brain: *Is that a fucking AI?*
+I called the hospital's urgent line today. A new coordinator answered the phone. She was warm, professional, and direct. Her voice was melodious. She barely paused in her list of questions, and as I gave details to relay to the on-call physician, I tried to ignore a sick itch in my brain: *Is that a fucking AI?*
 
 ---
 
 In 1970, roboticist Masahiro Mori first described the "Uncanny Valley". According to Mori, as simulations of life---robots, animations, illustrations---become more lifelike, they become more sympathetic. However, when a simulation is too lifelike, but not entirely convincing, it becomes grotesque. This space between the alien and the fully human is the Uncanny Valley: the repulsive arena of corpses and RealDolls. 
 
-This problem was always going to be temporary. As artificial creatures became more realistic, they would venture deeper into the Uncanny Valley. One day, they would become perfectly realistic. We would exit the Uncanny Valley, re-entering the Familiar. Nothing would be uncanny. Everything would feel safe and familiar.
+This problem was always going to be temporary. As artificial creatures became more realistic, they would venture deeper into the Uncanny Valley. One day, they would become perfectly realistic. We would exit the Uncanny Valley, re-entering the Familiar. Nothing would be uncanny. Everything would feel safe.
 
 Sure enough, the simulations climbed out of the valley. The Turing Test became yet another saturated benchmark as LLMs and image generators became indistinguishable from reality. But the simulations didn't leave the uncanniness behind; they carried it with them. It infected everything, eroding the boundaries of the Uncanny. And so you don't stand in the Familiar. You stand at the edge of a cliff. Every mediated encounter---every call, every email, every voice saying your name---is a precarious ledge. At any moment, it can collapse under the weight of an em-dash or a familiar phrase. And when it does, you discover that you were alone the whole time. There you are, performing sincerity for nobody, talking to yourself.
 
@@ -58,7 +58,7 @@ That consensus reality was the invisible infrastructure of democracy. Life on th
 
 ---
 
-I am a routine user of LLMs. They simplify my searches and literature reviews. They write my code. I structured and planned this blog post in conversation with Claude Fable. It’s a pleasant way to work; I am constantly assured of the brilliance of my ideas. *Yes, of course you must address your own use as an AI researcher---it’s what the audience is waiting for.*
+I am a routine user of LLMs. They simplify my searches and literature reviews. They write my code. I structured and planned this blog post in conversation with Claude Fable. It’s a pleasant way to work; I am constantly assured of the brilliance of my ideas. *Yes, of course you must address your own use as an AI researcher---it’s exactly what the audience is waiting for.*
 
 When I open the chat window, I know that what I am talking to is not human, however fluent or congenial. This experience is localized to my session. It does not erode the Familiar. But it makes certain signs instantly recognizable, those famous em-dashes, the "load-bearing", the "delve". When I leave my session, I see these new cliches again in messages and paper abstracts. The ground erodes.
 
