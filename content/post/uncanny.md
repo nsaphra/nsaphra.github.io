@@ -52,9 +52,9 @@ This loss of intent is acutely felt in art. Art often requires interpretive labo
 
 ---
 
-In 2004, a Bush adviser mocked the “reality-based community”. Empires, he explained, create their own reality. In 2026, this view feels almost quaint: the ability to shape reality is no longer a privilege of empires. Each individual now has the right to their own reality. Your preferred reality is algorithmically curated from a menu of bot swarms and then trimmed through the selective application of justifiable skepticism. Any inconvenient evidence against this chosen reality can be dismissed as a deepfake, an encroachment from the Uncanny Valley. Your world is populated by synthetic neighbors who agree with you and peppered with implausibly evil synthetic enemies. Inconvenient opponents and embarrassing allies are easily dismissed as bots. And so our consensus reality has fragmented into many little worlds. 
+In 2004, a Bush adviser mocked the “reality-based community”. Empires, he explained, create their own reality. In 2026, this view feels almost quaint: the ability to shape reality is no longer a privilege of empires. Each individual now has the right to their own reality. Your preferred reality is algorithmically curated from a menu of bot swarms and then trimmed through the selective application of justifiable skepticism. Any inconvenient evidence against this chosen reality can be dismissed as a deepfake, an encroachment from the Uncanny Valley. Your world is populated by synthetic neighbors who agree with you and peppered with implausibly evil synthetic enemies. Inconvenient opponents and embarrassing allies are easily dismissed as bots. It's easy to claim you really won an election if your opponents are synthetic.  And so our consensus reality has fragmented into many little worlds. 
 
-Consensus reality, it turns out, was the invisible infrastructure of democracy. It’s easy to claim you really won an election if everyone knows their opponents to be synthetic. Life on the Precipice breeds paranoia, and paranoia is easy to manipulate. They have you coming and going. Trust, and you might fall into the Uncanny at any moment. Distrust, and the Familiar becomes the Uncanny; reality ceases to exist.
+We've now learned that consensus reality was the invisible infrastructure of democracy. Life on the Precipice breeds paranoia, and paranoia makes you easy to manipulate. They have you coming and going. Trust, and you might fall into the Uncanny at any moment. Distrust, and the Familiar becomes the Uncanny; reality ceases to exist.
 
 ---
 
@@ -67,3 +67,7 @@ It's getting harder to tell. It's not just that models are improving, or that us
 Where can we go from here? Only backwards. We retreat to the high ground of the Familiar. Traditional in-person encounters are safe for now, so we look locally. You'd better be well-connected in this new world. We hire only from our vouched networks. We ask our friends who's single. We return to the office. This strategy will hold up until smart glasses become the norm, leaving us surrounded by humans parroting a stream of perfectly crafted answers. 
 
 More than anything, we withhold. Surrounded by untested ground, we become miserly with communicative effort. Why reply to that email? Why incorporate that reviewer's advice? Why try to understand? Any charity could precipitate another plunge into the Uncanny.
+
+---
+
+sarah, jacob, michelle
