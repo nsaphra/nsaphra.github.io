@@ -66,7 +66,7 @@ It's getting harder to tell. It's not just that models are improving, or that us
 
 Where can we go from here? Only backwards. We retreat to the high ground of the Familiar. Traditional in-person encounters are safe for now, so we look locally. You'd better be well-connected in this new world. We hire only from our vouched networks. We ask our friends who's single. We return to the office. This strategy will hold up until smart glasses become the norm, leaving us surrounded by humans parroting a stream of perfectly crafted answers. 
 
-More than anything, we withhold. Surrounded by untested ground, we become miserly with communicative effort. Why reply to that email? Why incorporate that reviewer's advice? Why try to understand? Any trust extended could precipitate another plunge into the Uncanny.
+More than anything, we withhold. Surrounded by untested ground, we become miserly with communicative effort. Why reply to that email? Why incorporate that reviewer's advice? Why try to understand? Any charity could precipitate another plunge into the Uncanny.
 
 ---
 
