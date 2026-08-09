@@ -1,15 +1,11 @@
 ---
 title: Life on the Uncanny Precipice
 
-date: 2026-08-06
+date: 2026-08-09
   
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors:
     - admin
-
-build:
-  list: never
-  render: always
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -70,4 +66,6 @@ More than anything, we withhold. Surrounded by untested ground, we become miserl
 
 ---
 
-<!-- sarah, jacob, michelle, eugene, gin, sophie, faye -->
+### Acknowledgements
+
+Thanks to everyone who talked with me about this grumpy manifesto. This post was shaped by conversation with Jacob Andreas and Michelle Li. Thanks to Sarah Wiegreffe, Jacob Andreas, Michelle Li, Eugene Vinitsky, Gin & Toxic, Sophia Hao, and Faye Wang for feedback and discussion on early drafts.
