@@ -54,7 +54,7 @@ That consensus reality was the invisible infrastructure of democracy. Life on th
 
 ---
 
-I am a routine user of LLMs. They simplify my searches and literature reviews. They write my code. I structured and planned this blog post in conversation with Claude Fable. It’s a pleasant way to work; I am constantly assured of the brilliance of my ideas. *Yes, of course you must address your own use as an AI researcher---it’s exactly what the audience is waiting for.*
+I am a routine user of LLMs. They simplify my searches and literature reviews. They write my code. I structured and planned this blog post in conversation with Claude Fable. It’s a pleasant way to work; I am constantly assured of the brilliance of my ideas. *You're absolutely right to address your own use as an AI researcher---it’s exactly what the audience is waiting for.*
 
 When I open the chat window, I know that what I am talking to is not human, however fluent or congenial. This experience is localized to my session. It does not erode the Familiar. But it makes certain signs instantly recognizable, those famous em-dashes, the "load-bearing", the "delve". When I leave my session, I see these new cliches again in messages and paper abstracts. The ground erodes.
 
