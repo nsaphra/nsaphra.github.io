@@ -68,4 +68,4 @@ More than anything, we withhold. Surrounded by untested ground, we become miserl
 
 ### Acknowledgements
 
-Thanks to everyone who talked with me about this grumpy manifesto. This post was shaped by conversation with Jacob Andreas and Michelle Li. Thanks to Sarah Wiegreffe, Jacob Andreas, Michelle Li, Eugene Vinitsky, Gin & Toxic, Sophia Hao, and Faye Wang for feedback and discussion on early drafts.
+Thanks to everyone who talked with me about this grumpy manifesto. This post was shaped by conversation with Jacob Andreas and Michelle Li. Thanks to Sarah Wiegreffe, Jacob Andreas, Michelle Li, Eugene Vinitsky, Gin & Toxic, Sophia Hao, Angelica Chen, Matthew Leavitt, and Faye Wang for feedback and discussion on early drafts.
