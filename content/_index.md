@@ -71,6 +71,8 @@ sections:
       text: |-
         You do not need to email me to apply to my lab and it will offer most applicants no advantage to do so. One exception for applicants with existing work to share: If your work is *highly* relevant to me, feel free to reach out to discuss it. I am not currently hiring interns or looking for remote junior collaborators. I welcome any specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry. 
 
+        I use an AI writing detector and will automatically ignore any emails that it flags as AI-generated. Please write to me in your own words. I consider undisclosed slop to be [extremely rude](https://nsaphra.net/post/uncanny/).
+
         I welcome any messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
 
         ## Am I a good advisor for you?
