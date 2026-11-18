@@ -69,10 +69,10 @@ sections:
       title: 'Potential Mentees'
       subtitle: 'Read before emailing me'
       text: |-
-        **You do not need to email me to apply to my lab, and it will offer most applicants no advantage to do so.** Applications must be submitted to BU CDS. I am not currently hiring interns or looking for remote junior collaborators. 
-        
-        I welcome specific connections and questions about my research, though I may direct you towards my coauthors who did the real work related to your inquiry. If you want to share your own highly relevant work with me, I am excited to hear about it.
+        **You do not need to email me to apply to my lab, and it will offer you no advantage to do so.** I ignore these emails. If you are working with a buddy of mine, they can reach out to me. I welcome specific connections and questions about my research, though I will probably direct you towards my coauthors who did the real work related to your inquiry. Feel free to email me asking to meet at a conference or locally. 
 
+        Applications must be submitted to BU Computing and Data Sciences. (I am not in the CS department.) I am not currently hiring interns or looking for remote junior collaborators. 
+        
         I use a tool to automatically flag AI-generated emails, so I will not see them. Please write to me in your own words. I consider undisclosed slop to be [extremely rude](https://nsaphra.net/post/uncanny/).
 
         I welcome messages from fellow disabled researchers looking to connect—I have [direct personal experience in this arena](post/hands/). 
